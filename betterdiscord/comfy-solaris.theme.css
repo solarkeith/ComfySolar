@@ -25,6 +25,9 @@
 /* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the scrollbar back */
 @import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
 
+/* hide GIF and Nitro gift buttons */
+@import "https://gist.githubusercontent.com/cheesits456/41d659f932b5a574b5dfb9b391a4506e/raw/55a9f77dd90e5bbacc10ac1c32343d452fc55f1b/RemoveButtons.theme.css";
+
 :root {
   /* ═══════『 💨 ・ Animations 』- If you don't want a high CPU usage, comment the line below */
   --disable-animations: 2s channel-unread infinite;
