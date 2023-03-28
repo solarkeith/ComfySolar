@@ -41,7 +41,7 @@
   --user-buttons-spacing: 8px;
 
   /* Color - Default value : #096DC0 */
-  --user-buttons-color: #096dc0;
+  --user-buttons-color: #e77070;
 
   /* ═══════『 ⭕ Roundness settings 』═══════
 *
@@ -67,10 +67,10 @@
   /* ═══════『 📜 Server/channel list 』═══════ */
 
   /* Mention - Default value : #F04747 */
-  --mention-color: #f04747;
+  --mention-color: #ff8484;
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #7289da;
+  --unread-color: #ff8484;
 
   /*  『 🔴 Mention colors in chat 』 */
 
@@ -86,7 +86,7 @@
   /* ═══════『 💬 Chat buttons 』═══════ */
 
   /* Default value : #7289DA */
-  --chat-buttons: #7289da;
+  --chat-buttons: #e17676;
 
   /* ═══════『 💬 SpotifyControls seek bar 』═══════
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
@@ -129,27 +129,27 @@
 }
 
 .theme-dark {
-  --background-primary: #23283d;
-  --background-secondary: #1e2233;
-  --background-secondary-alt: #191f2e;
-  --background-tertiary: #101320;
-  --background-mobile-primary: #23283d;
-  --background-mobile-secondary: #1e2233;
-  --channeltextarea-background: #191f2e;
-  --background-accent: #7289da;
+  --background-primary: #211010;
+  --background-secondary: #1a0b0b;
+  --background-secondary-alt: #120808;
+  --background-tertiary: #140808;
+  --background-mobile-primary: #211010;
+  --background-mobile-secondary: #1a0b0b;
+  --channeltextarea-background: #2d0101;
+  --background-accent: #e47777;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
-  --deprecated-card-bg: #12141f63;
-  --background-floating: #101320;
-  --deprecated-quickswitcher-input-background: #101320;
+  --deprecated-card-bg: #22111163;
+  --background-floating: #290f0f;
+  --deprecated-quickswitcher-input-background: #290f0f;
   --elevation-low: none;
-  --scrollbar-auto-thumb: #121722;
-  --scrollbar-auto-track: #191f2e;
-  --scrollbar-thin-thumb: #141925;
-  --activity-card-background: #101320;
-  --input-background: #1e2233;
+  --scrollbar-auto-thumb: #290f0f;
+  --scrollbar-auto-track: #2e1919;
+  --scrollbar-thin-thumb: #241414;
+  --activity-card-background: #290f0f;
+  --input-background: #331e1e;
 }
 
 .theme-light {
