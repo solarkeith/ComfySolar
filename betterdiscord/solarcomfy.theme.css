@@ -129,26 +129,26 @@
 }
 
 .theme-dark {
-  --background-primary: #420009;
-  --background-secondary: #1f0004;
-  --background-secondary-alt: #2e0006;
+  --background-primary: #2c0209;
+  --background-secondary: #190105;
+  --background-secondary-alt: #1e0106;
   --background-tertiary: #000000;
   --background-mobile-primary: #211010;
   --background-mobile-secondary: #1a0b0b;
-  --channeltextarea-background: #2d0101;
-  --background-accent: #e47777;
+  --channeltextarea-background: #190105;
+  --background-accent: #f39696;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
-  --deprecated-card-bg: #22111163;
-  --background-floating: #290f0f;
-  --deprecated-quickswitcher-input-background: #290f0f;
+  --deprecated-card-bg: #19010563;
+  --background-floating: #280108;
+  --deprecated-quickswitcher-input-background: #280108;
   --elevation-low: none;
-  --scrollbar-auto-thumb: #290f0f;
-  --scrollbar-auto-track: #2e1919;
+  --scrollbar-auto-thumb: #280108;
+  --scrollbar-auto-track: #190606;
   --scrollbar-thin-thumb: #241414;
-  --activity-card-background: #380000;
+  --activity-card-background: #1d0c0f;
   --input-background: #520000;
 }
 
