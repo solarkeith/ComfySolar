@@ -41,7 +41,7 @@
   --user-buttons-spacing: 8px;
 
   /* Color - Default value : #096DC0 */
-  --user-buttons-color: #e77070;
+  --user-buttons-color: #eca7a7;
 
   /* ═══════『 ⭕ Roundness settings 』═══════
 *
@@ -62,7 +62,7 @@
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
 
-  --colored-emoji: grayscale(0%);
+  --colored-emoji: grayscale(100%);
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 
@@ -75,18 +75,18 @@
   /*  『 🔴 Mention colors in chat 』 */
 
   /* Bar on the right - Default value : #C66262 */
-  --mention-color-bar: #c66262;
+  --mention-color-bar: #eca7a7;
 
   /* Background - Default value : #C662621F */
-  --mention-color-background: #c662621f;
+  --mention-color-background: #eca7a71f;
 
   /* On hover - Default value : #C6626226 */
-  --mention-color-hover: #c6626226;
+  --mention-color-hover: #eca7a726;
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
   /* Default value : #7289DA */
-  --chat-buttons: #e17676;
+  --chat-buttons: #eca7a7;
 
   /* ═══════『 💬 SpotifyControls seek bar 』═══════
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
@@ -129,10 +129,10 @@
 }
 
 .theme-dark {
-  --background-primary: #211010;
-  --background-secondary: #1a0b0b;
-  --background-secondary-alt: #120808;
-  --background-tertiary: #140808;
+  --background-primary: #420009;
+  --background-secondary: #1f0004;
+  --background-secondary-alt: #2e0006;
+  --background-tertiary: #000000;
   --background-mobile-primary: #211010;
   --background-mobile-secondary: #1a0b0b;
   --channeltextarea-background: #2d0101;
@@ -148,8 +148,8 @@
   --scrollbar-auto-thumb: #290f0f;
   --scrollbar-auto-track: #2e1919;
   --scrollbar-thin-thumb: #241414;
-  --activity-card-background: #290f0f;
-  --input-background: #331e1e;
+  --activity-card-background: #380000;
+  --input-background: #520000;
 }
 
 .theme-light {
