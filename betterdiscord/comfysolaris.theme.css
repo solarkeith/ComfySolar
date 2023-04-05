@@ -117,7 +117,7 @@
   /* ═══════『 🔰 User popout 』═══════ */
 
   /* Playing wave color */
-  --playing: #aa59c9;
+  --playing: #bd57d6;
 
   /* Listening wave color */
   --listening: #1db653;
@@ -132,27 +132,27 @@
 }
 
 .theme-dark {
-  --background-primary: #1b1b27;
-  --background-secondary: #16161f;
-  --background-secondary-alt: #16161f;
-  --background-tertiary: #1b1b27;
+  --background-primary: #161414;
+  --background-secondary: #0f0e0e;
+  --background-secondary-alt: #0f0e0e;
+  --background-tertiary: #000000;
   --background-mobile-primary: #1b1b27;
-  --background-mobile-secondary: #16161f;
-  --channeltextarea-background: #15151d;
-  --background-accent: #fe69b3;
+  --background-mobile-secondary: #000000;
+  --channeltextarea-background: #1d1517;
+  --background-accent: #ff9bae;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
-  --deprecated-card-bg: #15151d63;
-  --background-floating: #1b1b27;
-  --deprecated-quickswitcher-input-background: #16161f;
+  --deprecated-card-bg: #1c171863;
+  --background-floating: #000000;
+  --deprecated-quickswitcher-input-background: #1f1617;
   --elevation-low: none;
-  --scrollbar-auto-thumb: #1b1b27;
-  --scrollbar-auto-track: #060719;
-  --scrollbar-thin-thumb: #1b1b27;
-  --activity-card-background: #1b1b27;
-  --input-background: #16161e;
+  --scrollbar-auto-thumb: #271b1d;
+  --scrollbar-auto-track: #190607;
+  --scrollbar-thin-thumb: #000000;
+  --activity-card-background: #000000;
+  --input-background: #1e1616;
 }
 
 .theme-light {
