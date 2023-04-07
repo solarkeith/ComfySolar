@@ -131,6 +131,42 @@
   --discord-logo: none;
 }
 
+/* Floating Folder */
+.wrapper-38slSD:active {
+    -webkit-transform: unset;
+    transform: none;
+}
+
+[id^="folder-items-"] {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 99;
+    overflow-y: auto;
+    max-height: calc(100vh - 72px);
+    margin: auto auto auto calc(72px + 8px);
+    padding-top: 8px;
+    border-radius: 8px;
+    background: var(--background-floating);
+    -webkit-box-shadow: var(--elevation-high);
+    box-shadow: var(--elevation-high);
+}
+
+[id^="folder-items-"]::-webkit-scrollbar {
+    display: none;
+}
+
+.folderIconWrapper-1oRIZr {
+    transform: rotate(-90deg);
+}
+
+.closedFolderIconWrapper-3tRb2d .icon-1zKOXL,
+.expandedFolderIconWrapper-3RwQpD svg {
+    transform: rotate(90deg);
+}
+
+/* main theming stuff */
+
 .theme-dark {
   --background-primary: #000000;
   --background-secondary: #060606;
