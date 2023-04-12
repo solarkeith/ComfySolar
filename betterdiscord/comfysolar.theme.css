@@ -132,7 +132,7 @@
 }
 
 /* Floating Folder */
-.wrapper-38slSD:active {
+/*.wrapper-38slSD:active {
     -webkit-transform: unset;
     transform: none;
 }
@@ -163,7 +163,7 @@
 .closedFolderIconWrapper-3tRb2d .icon-1zKOXL,
 .expandedFolderIconWrapper-3RwQpD svg {
     transform: rotate(90deg);
-}
+}*/
 
 /* main theming stuff */
 
